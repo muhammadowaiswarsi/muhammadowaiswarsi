@@ -1,7 +1,6 @@
 ## Hi there, I'm Muhammad Owais Warsi 👋 A Full Stack Engineer:
 
 ##### Future Plans:
-- Have my own team of professional devs.
 - Contribute to the community as much as possible
 
 <br />

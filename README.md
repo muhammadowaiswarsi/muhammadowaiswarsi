@@ -28,4 +28,4 @@
 
 ---
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadowaiswarsi&show_icons=true&theme=tokyonight)
+![My GitHub Stats](https://github-stats-extended.vercel.app/api?username=muhammadowaiswarsi&show_icons=true&theme=tokyonight)

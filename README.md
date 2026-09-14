@@ -28,4 +28,4 @@
 
 ---
 
-![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadowaiswarsi&count_private=true&show_icons=true&theme=blueberry)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadowaiswarsi&show_icons=true&theme=tokyonight)
